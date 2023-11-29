@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "titulo": "Abrigo Naruto",
+        "imagen": "./img/naruto/naruto-abrigos/naruto-abrigo-01.png",
+        "categoria": {
+            "nombre": "Abrigos Naruto",
+            "id": "abrigos"
+        },
+        "precio": 14990,
+        "descripcion": "poleron de naruto color naranja"
+    },
+    {
+        "id": 2,
+        "titulo": "Abrigo negro",
+        "imagen": "./img/naruto/naruto-abrigos/naruto-abrigo-02.png",
+        "categoria": {
+            "nombre": "Abrigos Naruto",
+            "id": "abrigos"
+        },
+        "precio": 14990
+    },
+    {
+        "id": 3,
+        "titulo": "Abrigo naruto full",
+        "imagen": "./img/naruto/naruto-abrigos/naruto-abrigo-03.png",
+        "categoria": {
+            "nombre": "Abrigos Naruto",
+            "id": "abrigos"
+        },
+        "precio": 16990
+    },
+    {
+        "id": 4,
+        "titulo": "Abrigo Minato",
+        "imagen": "./img/naruto/naruto-abrigos/naruto-abrigo-04.png",
+        "categoria": {
+            "nombre": "Abrigos Naruto",
+            "id": "abrigos"
+        },
+        "precio": 14990
+    },
+    {
+        "id": 5,
+        "titulo": "Abrigo Itachi",
+        "imagen": "./img/naruto/naruto-abrigos/naruto-abrigo-05.png",
+        "categoria": {
+            "nombre": "Abrigos Naruto",
+            "id": "abrigos"
+        },
+        "precio": 19990
+    },
+    {
+        "id": 6,
+        "titulo": "Abrigo Uchiha",
+        "imagen": "./img/naruto/naruto-abrigos/naruto-abrigo-06.png",
+        "categoria": {
+            "nombre": "Abrigos Naruto",
+            "id": "abrigos"
+        },
+        "precio": 14990
+    },
+    {
+        "id": 7,
+        "titulo": "Abrigo Naranjo",
+        "imagen": "./img/naruto/naruto-abrigos/naruto-abrigo-07.png",
+        "categoria": {
+            "nombre": "Abrigos Naruto",
+            "id": "abrigos"
+        },
+        "precio": 16990
+    },
+    {
+        "id": 8,
+        "titulo": "Abrigo Kakashi",
+        "imagen": "./img/naruto/naruto-abrigos/naruto-abrigo-08.png",
+        "categoria": {
+            "nombre": "Abrigos Naruto",
+            "id": "abrigos"
+        },
+        "precio": 18990
+    },
+    {
+        "id": 9,
+        "titulo": "Pantalon gris",
+        "imagen": "./img/naruto/naruto-pantalones/naruto-pantalon-01.png",
+        "categoria": {
+            "nombre": "Pantalones Naruto",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": 10,
+        "titulo": "Pantalon Naruto M",
+        "imagen": "./img/naruto/naruto-pantalones/naruto-pantalon-02.png",
+        "categoria": {
+            "nombre": "Pantalones Naruto",
+            "id": "pantalones"
+        },
+        "precio": 9990
+    },
+    {
+        "id": 11,
+        "titulo": "Pantalon Negro",
+        "imagen": "./img/naruto/naruto-pantalones/naruto-pantalon-03.png",
+        "categoria": {
+            "nombre": "Pantalones Naruto",
+            "id": "pantalones"
+        },
+        "precio": 12990
+    },
+    {
+        "id": 12,
+        "titulo": "Pantalon Akatsuki",
+        "imagen": "./img/naruto/naruto-pantalones/naruto-pantalon-04.png",
+        "categoria": {
+            "nombre": "Pantalones Naruto",
+            "id": "pantalones"
+        },
+        "precio": 8990
+    },
+    {
+        "id": 13,
+        "titulo": "Pantalon naruto L",
+        "imagen": "./img/naruto/naruto-pantalones/naruto-pantalon-05.png",
+        "categoria": {
+            "nombre": "Pantalones Naruto",
+            "id": "pantalones"
+        },
+        "precio": 10990
+    },
+    {
+        "id": 14,
+        "titulo": "Akatsuki Buzo",
+        "imagen": "./img/naruto/naruto-pantalones/naruto-pantalon-06.png",
+        "categoria": {
+            "nombre": "Pantalones Naruto",
+            "id": "pantalones"
+        },
+        "precio": 10990
+    },
+    {
+        "id": 15,
+        "titulo": "Pantalon Itachi",
+        "imagen": "./img/naruto/naruto-pantalones/naruto-pantalon-07.png",
+        "categoria": {
+            "nombre": "Pantalones Naruto",
+            "id": "pantalones"
+        },
+        "precio": 12990
+    },
+    {
+        "id": 16,
+        "titulo": "Pantalon Naruto extrem",
+        "imagen": "./img/naruto/naruto-pantalones/naruto-pantalon-08.png",
+        "categoria": {
+            "nombre": "Pantalones Naruto",
+            "id": "pantalones"
+        },
+        "precio": 12990
+    },
+    {
+        "id": 17,
+        "titulo": "Camiseta Kakashi",
+        "imagen": "./img/naruto/naruto-camisetas/naruto-camiseta-01.png",
+        "categoria": {
+            "nombre": "Camisetas Naruto",
+            "id": "camisetas"
+        },
+        "precio": 9990
+    },
+    {
+        "id": 18,
+        "titulo": "Camiseta Naruto Black",
+        "imagen": "./img/naruto/naruto-camisetas/naruto-camiseta-02.png",
+        "categoria": {
+            "nombre": "Camisetas Naruto",
+            "id": "camisetas"
+        },
+        "precio": 12990
+    },
+    {
+        "id": 19,
+        "titulo": "Camiseta blue",
+        "imagen": "./img/naruto/naruto-camisetas/naruto-camiseta-03.png",
+        "categoria": {
+            "nombre": "Camisetas Naruto",
+            "id": "camisetas"
+        },
+        "precio": 9990
+    },
+    {
+        "id":20,
+        "titulo": "Camiseta naruto L",
+        "imagen": "./img/naruto/naruto-camisetas/naruto-camiseta-04.png",
+        "categoria": {
+            "nombre": "Camisetas Naruto",
+            "id": "camisetas"
+        },
+        "precio": 15990
+    },
+    {
+        "id": 21,
+        "titulo": "Camiseta Naruto niño",
+        "imagen": "./img/naruto/naruto-camisetas/naruto-camiseta-05.png",
+        "categoria": {
+            "nombre": "Camisetas Naruto",
+            "id": "camisetas"
+        },
+        "precio": 8990
+    },
+    {
+        "id": 22,
+        "titulo": "Camiseta Nagato",
+        "imagen": "./img/naruto/naruto-camisetas/naruto-camiseta-06.png",
+        "categoria": {
+            "nombre": "Camisetas Naruto",
+            "id": "camisetas"
+        },
+        "precio": 10990
+    },
+    {
+        "id": 23,
+        "titulo": "Camiseta Minato",
+        "imagen": "./img/naruto/naruto-camisetas/naruto-camiseta-07.png",
+        "categoria": {
+            "nombre": "Camisetas Naruto",
+            "id": "camisetas"
+        },
+        "precio": 12990
+    },
+    {
+        "id": 24,
+        "titulo": "Camiseta Naruto Mora",
+        "imagen": "./img/naruto/naruto-camisetas/naruto-camiseta-08.png",
+        "categoria": {
+            "nombre": "Camisetas Naruto",
+            "id": "camisetas"
+        },
+        "precio": 15990
+    }
+]
