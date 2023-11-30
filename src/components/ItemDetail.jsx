@@ -1,4 +1,4 @@
-
+import "./ItemDetail.css"
 
 const ItemDetail = ({item})=>{
 

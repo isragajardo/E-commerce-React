@@ -1,10 +1,10 @@
 
 import Item from "./Item.jsx"
-
+import "./ItemList.css"
 const ItemList = ({product})=>{
 
     return(
-        <div className="container">
+        <div className="container" >
             <h2 className="main-title">Productos</h2>
 
             <div className="product">

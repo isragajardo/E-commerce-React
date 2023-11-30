@@ -22,7 +22,7 @@ const ItemListContainer = ()=>{
 
     return(
 
-        <div>
+        <div > 
             <ItemList product={product}/>
         </div>
 

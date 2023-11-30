@@ -1,0 +1,17 @@
+.target{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+img{
+    width: 100%;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(17, 0, 255);
+    text-decoration: none;
+}
+
