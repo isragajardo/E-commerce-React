@@ -5,14 +5,16 @@ import { useParams } from "react-router-dom"
 
 const ItemDetailContainer =()=>{
 
+    
     const [item,setItem] = useState(null)
     const id = useParams().id;
-    console.log(id)
+    console.log("aqui" , id)
 
     useEffect(()=>{
         pedirItemPorId(Number(id))
          .then((res)=>{
             setItem(res)
+            
          })
 
     },[id])
@@ -20,6 +22,7 @@ const ItemDetailContainer =()=>{
     return(
         <div>
             {item && <ItemDetail item={item} />}
+            
             
             
             
