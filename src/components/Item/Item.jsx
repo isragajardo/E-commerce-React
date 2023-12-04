@@ -14,7 +14,7 @@ const Item = ({product})=>{
                 <p>Precio : ${product.precio}</p>
                 <p>Categoria : {product.categoria.id}</p>
                 <div className="link-container">
-                  <Link  to={`/Item/${product.id}`} className="link">Ver mas</Link>
+                <Link  to={`/Item/${product.id}`} className="link">Ver mas</Link>
 
                 </div>
 

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import { pedirItemPorId } from "../helpers/NeedData"
+import { pedirItemPorId } from "../../helpers/NeedData"
 import ItemDetail from "./ItemDetail"
 import { useParams } from "react-router-dom"
 
@@ -8,7 +8,6 @@ const ItemDetailContainer =()=>{
     
     const [item,setItem] = useState(null)
     const id = useParams().id;
-    console.log("aqui" , id)
 
     useEffect(()=>{
         pedirItemPorId(Number(id))

@@ -1,6 +1,20 @@
 import React from "react";
 import CartWidget from "./CartWidget/CartWidget";
 import { Link } from "react-router-dom";
+import SearchBar from "./SearchBar/SearchBar";
+
+
+const hadleSubmit= (search)=>{
+
+  
+
+      console.log(search)
+  
+      
+
+   
+
+}
 
 const NavBar = ()=>{
 
@@ -19,11 +33,12 @@ const NavBar = ()=>{
 <Link className="nav-link active" aria-current="page" to="/">Home</Link>
 </li>
 <li className="nav-item">
-<Link className="nav-link" to="/abrigos">Abrigos</Link>
+<Link className="nav-link" to="/productos/abrigos">Abrigos</Link>
 </li>
 <li className="nav-item">
-<Link className="nav-link" to="/pantalones">Pantalones</Link>
+<Link className="nav-link" to="/productos/pantalones">Pantalones</Link>
 </li>
+<SearchBar enSubmit ={hadleSubmit}/>
 
 </ul>
 </div>
