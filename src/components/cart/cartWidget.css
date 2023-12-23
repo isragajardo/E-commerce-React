@@ -6,8 +6,11 @@
 .cart{
     display: flex;
     flex-direction: row;
+    text-decoration: none;
     
 }
 .cart p{
     color: white;
+    text-decoration: none;
 }
+

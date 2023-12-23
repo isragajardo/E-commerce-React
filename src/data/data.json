@@ -8,7 +8,8 @@
             "id": "abrigos"
         },
         "precio": 14990,
-        "descripcion": "poleron de naruto color naranja"
+        "descripcion": "Polerón de Naruto color naranja.",
+        "stock": 10
     },
     {
         "id": 2,
@@ -18,17 +19,21 @@
             "nombre": "Abrigos Naruto",
             "id": "abrigos"
         },
-        "precio": 14990
+        "precio": 14990,
+        "descripcion": "Abrigo negro elegante de estilo Naruto.",
+        "stock": 10
     },
     {
         "id": 3,
-        "titulo": "Abrigo naruto full",
+        "titulo": "Abrigo Naruto full",
         "imagen": "../img/naruto/naruto-abrigos/naruto-abrigo-03.png",
         "categoria": {
             "nombre": "Abrigos Naruto",
             "id": "abrigos"
         },
-        "precio": 16990
+        "precio": 16990,
+        "descripcion": "Abrigo completo de Naruto con diseño único.",
+        "stock": 10
     },
     {
         "id": 4,
@@ -38,7 +43,9 @@
             "nombre": "Abrigos Naruto",
             "id": "abrigos"
         },
-        "precio": 14990
+        "precio": 14990,
+        "descripcion": "Abrigo con diseño inspirado en Minato.",
+        "stock": 10
     },
     {
         "id": 5,
@@ -48,7 +55,9 @@
             "nombre": "Abrigos Naruto",
             "id": "abrigos"
         },
-        "precio": 19990
+        "precio": 19990,
+        "descripcion": "Abrigo con temática de Itachi, ideal para fans.",
+        "stock": 10
     },
     {
         "id": 6,
@@ -58,7 +67,9 @@
             "nombre": "Abrigos Naruto",
             "id": "abrigos"
         },
-        "precio": 14990
+        "precio": 14990,
+        "descripcion": "Abrigo con emblema Uchiha para seguidores del clan.",
+        "stock": 10
     },
     {
         "id": 7,
@@ -68,7 +79,9 @@
             "nombre": "Abrigos Naruto",
             "id": "abrigos"
         },
-        "precio": 16990
+        "precio": 16990,
+        "descripcion": "Abrigo de color naranjo con estilo Naruto.",
+        "stock": 10
     },
     {
         "id": 8,
@@ -78,57 +91,69 @@
             "nombre": "Abrigos Naruto",
             "id": "abrigos"
         },
-        "precio": 18990
+        "precio": 18990,
+        "descripcion": "Abrigo inspirado en el personaje Kakashi.",
+        "stock": 10
     },
     {
         "id": 9,
-        "titulo": "Pantalon gris",
+        "titulo": "Pantalón gris",
         "imagen": "../img/naruto/naruto-pantalones/naruto-pantalon-01.png",
         "categoria": {
             "nombre": "Pantalones Naruto",
             "id": "pantalones"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Pantalón gris clásico, cómodo y versátil.",
+        "stock": 10
     },
     {
         "id": 10,
-        "titulo": "Pantalon Naruto M",
+        "titulo": "Pantalón Naruto M",
         "imagen": "../img/naruto/naruto-pantalones/naruto-pantalon-02.png",
         "categoria": {
             "nombre": "Pantalones Naruto",
             "id": "pantalones"
         },
-        "precio": 9990
+        "precio": 9990,
+        "descripcion": "Pantalón de Naruto en tamaño mediano.",
+        "stock": 10
     },
     {
         "id": 11,
-        "titulo": "Pantalon Negro",
+        "titulo": "Pantalón Negro",
         "imagen": "../img/naruto/naruto-pantalones/naruto-pantalon-03.png",
         "categoria": {
             "nombre": "Pantalones Naruto",
             "id": "pantalones"
         },
-        "precio": 12990
+        "precio": 12990,
+        "descripcion": "Pantalón negro elegante y moderno.",
+        "stock": 10
     },
     {
         "id": 12,
-        "titulo": "Pantalon Akatsuki",
+        "titulo": "Pantalón Akatsuki",
         "imagen": "../img/naruto/naruto-pantalones/naruto-pantalon-04.png",
         "categoria": {
             "nombre": "Pantalones Naruto",
             "id": "pantalones"
         },
-        "precio": 8990
+        "precio": 8990,
+        "descripcion": "Pantalón con diseño Akatsuki para seguidores leales.",
+        "stock": 10
     },
     {
         "id": 13,
-        "titulo": "Pantalon naruto L",
+        "titulo": "Pantalón Naruto L",
         "imagen": "../img/naruto/naruto-pantalones/naruto-pantalon-05.png",
         "categoria": {
             "nombre": "Pantalones Naruto",
             "id": "pantalones"
         },
-        "precio": 10990
+        "precio": 10990,
+        "descripcion": "Pantalón de Naruto en tamaño grande.",
+        "stock": 10
     },
     {
         "id": 14,
@@ -138,7 +163,9 @@
             "nombre": "Pantalones Naruto",
             "id": "pantalones"
         },
-        "precio": 10990
+        "precio": 10990,
+        "descripcion": "Buzo con emblema Akatsuki, perfecto para fans del grupo.",
+        "stock": 10
     },
     {
         "id": 15,
@@ -148,7 +175,9 @@
             "nombre": "Pantalones Naruto",
             "id": "pantalones"
         },
-        "precio": 12990
+        "precio": 12990,
+        "descripcion": "Pantalón con diseño inspirado en Itachi.",
+        "stock": 10
     },
     {
         "id": 16,
@@ -158,7 +187,9 @@
             "nombre": "Pantalones Naruto",
             "id": "pantalones"
         },
-        "precio": 12990
+        "precio": 12990,
+        "descripcion": "Pantalón extremadamente estilizado de Naruto.",
+        "stock": 10
     },
     {
         "id": 17,
@@ -168,7 +199,9 @@
             "nombre": "Camisetas Naruto",
             "id": "camisetas"
         },
-        "precio": 9990
+        "precio": 9990,
+        "descripcion": "Camiseta con estampado de Kakashi, ideal para seguidores del personaje.",
+        "stock": 10
     },
     {
         "id": 18,
@@ -178,7 +211,9 @@
             "nombre": "Camisetas Naruto",
             "id": "camisetas"
         },
-        "precio": 12990
+        "precio": 12990,
+        "descripcion": "Camiseta negra con temática de Naruto, moderna y llamativa.",
+        "stock": 10
     },
     {
         "id": 19,
@@ -188,17 +223,21 @@
             "nombre": "Camisetas Naruto",
             "id": "camisetas"
         },
-        "precio": 9990
+        "precio": 9990,
+        "descripcion": "Camiseta de color azul vibrante con detalles Naruto.",
+        "stock": 10
     },
     {
-        "id":20,
-        "titulo": "Camiseta naruto L",
+        "id": 20,
+        "titulo": "Camiseta Naruto L",
         "imagen": "../img/naruto/naruto-camisetas/naruto-camiseta-04.png",
         "categoria": {
             "nombre": "Camisetas Naruto",
             "id": "camisetas"
         },
-        "precio": 15990
+        "precio": 15990,
+        "descripcion": "Camiseta de Naruto en tamaño grande.",
+        "stock": 10
     },
     {
         "id": 21,
@@ -208,7 +247,9 @@
             "nombre": "Camisetas Naruto",
             "id": "camisetas"
         },
-        "precio": 8990
+        "precio": 8990,
+        "descripcion": "Camiseta diseñada especialmente para niños fans de Naruto.",
+        "stock": 10
     },
     {
         "id": 22,
@@ -218,7 +259,9 @@
             "nombre": "Camisetas Naruto",
             "id": "camisetas"
         },
-        "precio": 10990
+        "precio": 10990,
+        "descripcion": "Camiseta con ilustración de Nagato, un personaje emblemático.",
+        "stock": 10
     },
     {
         "id": 23,
@@ -228,7 +271,9 @@
             "nombre": "Camisetas Naruto",
             "id": "camisetas"
         },
-        "precio": 12990
+        "precio": 12990,
+        "descripcion": "Camiseta con diseño basado en Minato, el Cuarto Hokage.",
+        "stock": 10
     },
     {
         "id": 24,
@@ -238,6 +283,8 @@
             "nombre": "Camisetas Naruto",
             "id": "camisetas"
         },
-        "precio": 15990
+        "precio": 15990,
+        "descripcion": "Camiseta de Naruto en tono morado, elegante y original.",
+        "stock": 10
     }
 ]

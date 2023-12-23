@@ -1,33 +1,39 @@
 import {useEffect, useState} from "react";
-import { NeedData } from "../../helpers/NeedData";
 import ItemList from "./ItemList";
 import { useParams } from "react-router-dom";
+import { collection, getDocs, query, where } from "firebase/firestore";
+import {db} from "../../firebase/config"
 
 const ItemListContainer = ()=>{
 
     const [product, setProduct] = useState([])
     const [title, setTitle] = useState([])
-    const category = useParams().categoria
-    console.log(category)
+    const category = useParams().category
+   
+    
 
     useEffect(()=>{
 
+        const productRef = collection(db, "products");
+        const q = category ? query(productRef, where("category", "==", category)) : productRef
+        
+   
+
+
+        getDocs(q)
+          .then((data)=>{
+
+            setProduct(data.docs.map((doc)=>{
+                return {...doc.data(), id: doc.id,}
+
+            
+            }))
+          })
+
+
         
 
-        NeedData()
-             .then((res)=>{
-                if(category)
-                {
-                    setProduct(res.filter((prod)=> prod.categoria.id === category))
-                    setTitle(category)
-
-                }else{
-                    setProduct(res)
-                    setTitle("productos")
-
-                }
-                
-             })
+       
 
     }, [category])
 

@@ -1,10 +1,27 @@
-img{
-    width: 20%;
+.img-detail{
+    width: 80%;
+    box-shadow: 1px 10px 10px 1px;
+    margin: 2rem;
 }
+
 .product-detail
 {
     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+@media(max-width:800px)
+{
+    .product-detail
+{
+    
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+}
+.container-ItemDetail{
+    margin-top: 5rem;
+   
 }

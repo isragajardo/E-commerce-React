@@ -8,17 +8,17 @@ const Item = ({product})=>{
             
             <div className="target">
             <img src={product.imagen} alt=""/>
-            <div>
+            <div className="item-target">
 
-                <h4>{product.titulo}</h4>
-                <p>Precio : ${product.precio}</p>
-                <p>Categoria : {product.categoria.id}</p>
-                <div className="link-container">
-                <Link  to={`/Item/${product.id}`} className="link">Ver mas</Link>
-
-                </div>
+                <h4 className="title">{product.title}</h4>
+                <p>Precio : ${product.price}</p>
+                
 
             </div>
+            <div className="link-container">
+                <Link  to={`/Item/${product.id}`} className="link">VER MAS</Link>
+
+                </div>
             </div>
 
         </div>

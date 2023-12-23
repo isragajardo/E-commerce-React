@@ -1,7 +1,17 @@
 .product{
     display: grid;
     grid-template-columns: repeat(3,1fr);
+    gap: 0.6rem;
     
+}
+
+@media(max-width:800px)
+{
+    .product{
+        grid-template-columns: repeat(2,1fr);
+
+    }
+   
 }
 .main-title{
     display: flex;
