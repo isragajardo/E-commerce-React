@@ -1,0 +1,17 @@
+.cart-list{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 1px 1px 5px 1px;
+    margin: 1rem;
+}
+
+.cart-img-detail{
+    width: 10%;
+}
+.cart-button{
+    display: flex;
+    justify-content: space-between;
+    margin: 3rem;
+}
